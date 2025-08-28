@@ -9,3 +9,4 @@ type then
 help sheel builtin
 type bash
 type psql
+type ./five.sh
