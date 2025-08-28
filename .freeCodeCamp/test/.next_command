@@ -6,3 +6,5 @@ type echo
 type read
 type if
 type then
+help sheel builtin
+type bash
